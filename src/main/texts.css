@@ -1,0 +1,107 @@
+body {
+  font-family: 'Ubuntu', Arial;
+}
+
+/* MENU BAR */
+h1#top-title {
+  margin: 0;
+  padding: 0;
+  font-size: 26px;
+}
+
+/* INTRO */
+div#intro,
+div#bottom {
+  font-size: 20px;
+}
+
+div#intro h2 {
+  padding: 8px 0 0 0;
+  margin: 0;
+}
+
+/* BOTTOM */
+div#bottom a {
+  text-decoration: none;
+  color: white;
+  text-align: center;
+}
+
+/* TITLES */
+.h2-titles {
+  font-size: 24px;
+  margin: 10px 0 10px 0;
+}
+
+/* QUESTIONS */
+.p-question-text{
+  font-size: 20px;
+}
+.buttons, .add-buttons{
+  font-size: 17px;
+  color:white;
+}
+.buttons:hover{
+  font-weight:bold;
+  color:black;
+}
+.add-buttons:hover{
+  font-size: 18px;
+  color:black;
+}
+
+/* MENSAGENS DE ERRO E DE CONFIRMAÇÃO */
+p#convert-error, p#nomes-error, p#itens-error, p#consumo-error{
+  color:red;
+  font-weight: bold;
+  margin: 30px 0 10px 0;
+  text-align:center;
+}
+p#nomes-save, p#itens-save{
+  color:rgb(23, 173, 23);
+  font-weight: bold;
+  margin: 0 0 10px 0;
+  text-align:center;
+}
+p#itens-save{
+  margin: -10px 0 30px 0;
+}
+p#nomes-save{
+  margin: -10px 0 0 0;
+}
+/* p#itens-error{
+  margin: 10px 0 10px 0;
+} */
+input, option{
+  font-size: 15px;
+}
+.pgt-q3{
+  text-align: center;
+}
+
+/* OPÇÕES DE NOME */
+.nomes{
+  font-size:18px;
+  color: white;
+}
+.nomes:hover{
+  font-weight: bold;
+  color: black;
+}
+.nomes-selected{
+  font-size:18px;
+  font-weight: bold;
+  color: black;
+}
+.nomes-selected:hover{
+  color:white;
+}
+
+table{
+  font-size: 18px;
+  text-align: center;
+}
+th{
+  font-weight: bold;
+  color:white;
+}
