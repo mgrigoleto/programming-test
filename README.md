@@ -7,7 +7,7 @@ Os códigos foram desenvolvidos em HTML5, CSS3 e JavaScript.
 
 ## Como visualizar o resultado
 
-Para visualizar a página principal, que está em HTML, basta clicar [aqui] para abrir a página que está hospedada no GitHub pages.  
+Para visualizar a página principal, que está em HTML, basta clicar [aqui](https://mgrigoleto.github.io/programming-test/) para abrir a página que está hospedada no GitHub pages.  
 Fique à vontade para visualizar a página em dispositivos móveis, me esforcei para deixar a página responsiva.  
 Os arquivos que compõem a página estão no repositório separados por pasta.  
 
